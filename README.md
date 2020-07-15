@@ -28,7 +28,7 @@
 
 # Sobre este respositório
 
-Este repositório contém uma aplicação proposta durante o Bootcamp GoStack da [RocketSeat](https://rocketseat.com.br/). Seu intuito é explorar o desenvolvimento de uma SPA que demonstra informações de repositórios no Github.
+Este repositório contém uma aplicação proposta durante o Bootcamp GoStack da [Rocketseat](https://rocketseat.com.br/). Seu intuito é explorar o desenvolvimento de uma SPA que demonstra informações de repositórios no Github.
 
 ## O projeto
 
@@ -82,7 +82,7 @@ Para acessar a página web da aplicação, digite no seu navegador: http://local
 
 ## Licença
 
-Como este projeto foi nos dado com carinho pela [RocketSeat](https://rocketseat.com.br/), ele também está disponível neste repositório gratuitamente para todos através da licença MIT. Detalhes: [LICENSE](https://github.com/pablonora/github-explorer/blob/master/LICENSE).
+Como este projeto foi nos dado com carinho pela [Rocketseat](https://rocketseat.com.br/), ele também está disponível neste repositório gratuitamente para todos através da licença MIT. Detalhes: [LICENSE](https://github.com/pablonora/github-explorer/blob/master/LICENSE).
 
 
 [nodejs]: https://nodejs.org/
