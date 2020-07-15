@@ -68,7 +68,7 @@ Extraia o arquivo compactado baixado e navegue até a pasta dele através do ter
 
 ## Preparação da aplicação
 
-Para preparar o fornecimento das páginas web, abra um terminal e mova-se para o diretório principal da aplicação e insira os seguintes comandos:
+Para preparar o fornecimento das páginas web, abra um terminal, navegue até o diretório principal da aplicação e insira os seguintes comandos:
 
 ```bash
 $ npm install
@@ -78,7 +78,7 @@ $ npm start
 
 ## Utilizando
 
-Para acessar a página web da aplicação, digite no seu navegador: http://localhost:3000. A partir daí, é só adicionar os repositórios que deseja visualizar, seguindo sempre o formato "`<criador>/<nome>`", por exemplo: "`pablolmnora/github-explorer`".
+Para acessar a página web da aplicação, digite no seu navegador: http://localhost:3000. A partir daí, é só adicionar os repositórios que deseja visualizar, seguindo sempre o formato `<criador>/<nome>`, por exemplo: `pablolmnora/github-explorer`.
 
 ## Licença
 
