@@ -68,7 +68,7 @@ Extraia o arquivo compactado baixado e navegue até a pasta dele através do ter
 
 ## Preparação da aplicação
 
-Para preparar o fornecimento das páginas web, abra um terminal, navegue até o diretório principal da aplicação e insira os seguintes comandos:
+Para preparar o fornecimento das páginas web, com o terminal no diretório principal da aplicação, insira os seguintes comandos:
 
 ```bash
 $ npm install
