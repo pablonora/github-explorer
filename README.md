@@ -64,7 +64,7 @@ $ cd github-explorer
 
 ### Sem o GIT Instalado
 
-Extraia o arquivo compactado baixado e navegue até a pasta dele através do terminal utilizando o comando `cd `.
+Extraia o arquivo compactado baixado e navegue até a pasta dele através do terminal utilizando o comando `cd`.
 
 ## Preparação da aplicação
 
